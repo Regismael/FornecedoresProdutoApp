@@ -1,0 +1,114 @@
+# .NET and Visual Studio
+bin/
+obj/
+.vscode/
+.vscode/*
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.ide/
+.idea/
+*.pidb
+*.swp
+*.tmp
+*.temp
+*.pidb.meta
+*.resources
+*.rsrc
+*.aps
+*.ap_
+.project
+*.proj
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+.history/
+
+# Rider
+.idea/
+.idea/*
+*.ipr
+*.iws
+*.iml
+.idea_modules/
+.idea_modules/*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+project.json.lock
+project.json.lock.json
+aspnet_client/
+project.lock.json
+artifacts/
+project.json.lock
+project.json.lock.json
+aspnet_client/
+
+# NuGet
+*.nupkg
+*.nuspec
+.nuget/
+
+# npm
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+*.tgz
+.yarn-integrity
+
+# Logs
+*.log
+
+# Build directories
+/build/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac System files
+.DS_Store
+.AppleDouble
+.LSOverride
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# End of OS generated files
